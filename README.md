@@ -13,3 +13,5 @@ Also, there is a store where you can use money you made by completing orders on 
 so that you don't have to synthesize them every time (you have to work for it though!)
 
 You can also feed Victor donuts for veeeery cryptic hints, but, he's honestly not that useful.
+
+Might need to change directory to victorslab for it to work.
