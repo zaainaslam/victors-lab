@@ -1,5 +1,6 @@
-# victors-lab
-A very old game I made in high school to make memorizing chemical equations easier.
+# Victor's Lab
+
+A very old game I made in high school to make memorizing A'level chemical equations easier.
 
 It still has MS paint graphics.
 
@@ -13,7 +14,7 @@ You beat the levels by synthesizing the chemicals asked of you.
 
 Some chemicals need certain temperatures, some need reflux, etc, all the conditions have to be right for it to work.
 
-Also, there is a store where you can use money you made by completing orders on reagents,
+Also, there is a (half implemented) store where you can use money you made by completing orders on reagents,
 so that you don't have to synthesize them every time (you have to work for it though!)
 
 You can also feed Victor donuts for veeeery cryptic hints, but, he's honestly not that useful.
