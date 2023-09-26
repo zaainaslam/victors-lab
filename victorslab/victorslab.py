@@ -1006,7 +1006,7 @@ def draw_gamescreen():
 
 def draw_story():
     
-    DISPLAYSURF.fill(RED)
+    DISPLAYSURF.fill(BLACK)
     
     textSurfaceObj = MfontObj.render("This is Victor the Mad Scientist.", True, YELLOW)
     textRectObj = textSurfaceObj.get_rect()
