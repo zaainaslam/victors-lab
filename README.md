@@ -3,6 +3,10 @@ A very old game I made in high school to make memorizing chemical equations easi
 
 It still has MS paint graphics.
 
+![Gameplay](img/screenshot1.png)
+
+![Gameplay](img/screenshot2.png)
+
 You can pick up reagents from the shelves, then use them in the little "lab."
 
 You beat the levels by synthesizing the chemicals asked of you.
