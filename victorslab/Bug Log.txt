@@ -1,0 +1,15 @@
+Mousing over doesn't work for things that have been shaken
+Some minor aesthetic bugs with shifting beakers
+Some major BEAKER GO BYE BYES
+- happened after making methylbenzene
+- maybe to do with shake bug as doesn't happen always
+-temporary fix necessary since makes unplayable, fix by changing disappearance parameters
+
+When prepared oxovanadium (V), when shook beaker, reaction beaker did a funny thing.
+This probaby has to be fixed in the react function
+
+When pour chemicals, somehow they do not get put back on the shelf if last poured sometimes
+
+Make so that cannot pick up beaker if shelf is open
+
+Fix some descriptions, and for aesthetic reasons make description lower

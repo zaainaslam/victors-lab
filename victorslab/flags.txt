@@ -1,0 +1,48 @@
+Scene 1  - nightmare
+
+notation:
+[] - text boxes
+
+- takes place on bus
+-beth is sleeping
+-color scheme:  dark
+-location: forest
+-sprites: beth near bottom of screen. Ghostie is offscreen, upwards
+
+Textboxes one after the other, with five second delays
+
+[Anybody... anybody there?]
+[I'm lost...]
+[Why won't anybody come find me...?]
+
+As you approach upwards...
+*rustling sounds*
+
+[Who's... who's there?]
+[Are you coming to help me..?]
+
+Approach upwards, the backsprite of ghostie becomes visible
+
+[Please...]
+
+As you approach, a cutscene plays out. Beth goes closer and closer.
+
+When she is one tile behind ghostie, ghostie begins to turn around, but just as she completes the turn, she freezes.
+
+[Why...?]
+
+ And then she falls to the ground.
+
+Question mark above beth's head.
+
+Beth turns around, is holding a knife. She screams.
+
+[Oi...]
+[OI! BETH! BETH!]
+
+Wakes up on bus. Kat is looking at her.
+
+Kat: [
+
+
+
