@@ -1,0 +1,15 @@
+
+                ##ACIDS
+
+                #CATALYSTS
+                ['iron(III) bromide', 'aluminium chloride', 'tin', 'copper nitrile', 'copper chloride', 'copper bromide',
+                 'raney nickel', 0, 0, 0, 0, 0,
+                 0, 0, 0, 0, 0, 0,],
+                #SALTS AND BASES
+                ['potassium iodide', 'silver nitrate', 'sodium hydroxide', 'potassium permanganate', 0, 0,
+                 'sodium nitrate', 'sodium nitrite', 'phosphorous(V) chloride', 'sodium nitrile', 'benzenediazonium chloride', 0,
+                 "ammonium vanadate(V)", 0, 0, 0, 0, 0,],
+                #MISCELLANEOUS
+                ['hydrogen', 'bromine water', '2,4-dinitrophenylhydrazine', 'potassium dichromate', 'ammonia', 0,
+                 'ethanol', "dioxovanadium(V)", 0, 0, 0, 0,
+                 'chromium (III)', 'manganese (II)', 'iron (II)', 'iron (III)', 'nickel (II)', 'copper (II)',]]
