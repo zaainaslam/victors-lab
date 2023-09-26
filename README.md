@@ -1,7 +1,7 @@
 # victors-lab
-A game I made in high school to make memorizing chemical equations easier
+A very old game I made in high school to make memorizing chemical equations easier.
 
-It's not very pretty, I might go back and redo this in something else.
+It still has MS paint graphics.
 
 You can pick up reagents from the shelves, then use them in the little "lab."
 
